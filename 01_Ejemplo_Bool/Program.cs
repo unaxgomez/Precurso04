@@ -10,6 +10,8 @@ namespace _01_Ejemplo_Bool
     {
         static void Main(string[] args)
         {
+            //prueba
+
             // creamos una vaiable tipo bool llamada test
             bool test;
             // Ponemos el valor false en la variable test
