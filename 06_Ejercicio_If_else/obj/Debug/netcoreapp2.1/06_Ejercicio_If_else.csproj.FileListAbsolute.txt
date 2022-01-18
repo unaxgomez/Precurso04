@@ -1,0 +1,12 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/bin/Debug/netcoreapp2.1/06_Ejercicio_If_else.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/bin/Debug/netcoreapp2.1/06_Ejercicio_If_else.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/bin/Debug/netcoreapp2.1/06_Ejercicio_If_else.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/bin/Debug/netcoreapp2.1/06_Ejercicio_If_else.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/bin/Debug/netcoreapp2.1/06_Ejercicio_If_else.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/obj/Debug/netcoreapp2.1/06_Ejercicio_If_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/obj/Debug/netcoreapp2.1/06_Ejercicio_If_else.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/obj/Debug/netcoreapp2.1/06_Ejercicio_If_else.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/obj/Debug/netcoreapp2.1/06_Ejercicio_If_else.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/obj/Debug/netcoreapp2.1/06_Ejercicio_If_else.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/obj/Debug/netcoreapp2.1/06_Ejercicio_If_else.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/06_Ejercicio_If_else/obj/Debug/netcoreapp2.1/06_Ejercicio_If_else.genruntimeconfig.cache
