@@ -1,0 +1,6 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/27_Ejercicio_Repaso/bin/Debug/27_Ejercicio_Repaso.exe
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/27_Ejercicio_Repaso/bin/Debug/27_Ejercicio_Repaso.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/27_Ejercicio_Repaso/obj/Debug/27_Ejercicio_Repaso.csproj.AssemblyReference.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/27_Ejercicio_Repaso/obj/Debug/27_Ejercicio_Repaso.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/27_Ejercicio_Repaso/obj/Debug/27_Ejercicio_Repaso.exe
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/27_Ejercicio_Repaso/obj/Debug/27_Ejercicio_Repaso.pdb
