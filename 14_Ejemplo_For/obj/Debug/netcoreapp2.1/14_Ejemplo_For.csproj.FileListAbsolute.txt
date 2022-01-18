@@ -1,0 +1,12 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/bin/Debug/netcoreapp2.1/14_Ejemplo_For.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/bin/Debug/netcoreapp2.1/14_Ejemplo_For.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/bin/Debug/netcoreapp2.1/14_Ejemplo_For.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/bin/Debug/netcoreapp2.1/14_Ejemplo_For.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/bin/Debug/netcoreapp2.1/14_Ejemplo_For.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/obj/Debug/netcoreapp2.1/14_Ejemplo_For.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/obj/Debug/netcoreapp2.1/14_Ejemplo_For.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/obj/Debug/netcoreapp2.1/14_Ejemplo_For.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/obj/Debug/netcoreapp2.1/14_Ejemplo_For.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/obj/Debug/netcoreapp2.1/14_Ejemplo_For.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/obj/Debug/netcoreapp2.1/14_Ejemplo_For.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/14_Ejemplo_For/obj/Debug/netcoreapp2.1/14_Ejemplo_For.genruntimeconfig.cache

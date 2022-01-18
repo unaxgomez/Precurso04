@@ -1,0 +1,12 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/bin/Debug/netcoreapp2.1/13_Ejercicio_While.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/bin/Debug/netcoreapp2.1/13_Ejercicio_While.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/bin/Debug/netcoreapp2.1/13_Ejercicio_While.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/bin/Debug/netcoreapp2.1/13_Ejercicio_While.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/bin/Debug/netcoreapp2.1/13_Ejercicio_While.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/obj/Debug/netcoreapp2.1/13_Ejercicio_While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/obj/Debug/netcoreapp2.1/13_Ejercicio_While.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/obj/Debug/netcoreapp2.1/13_Ejercicio_While.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/obj/Debug/netcoreapp2.1/13_Ejercicio_While.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/obj/Debug/netcoreapp2.1/13_Ejercicio_While.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/obj/Debug/netcoreapp2.1/13_Ejercicio_While.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/13_Ejercicio_While/obj/Debug/netcoreapp2.1/13_Ejercicio_While.genruntimeconfig.cache

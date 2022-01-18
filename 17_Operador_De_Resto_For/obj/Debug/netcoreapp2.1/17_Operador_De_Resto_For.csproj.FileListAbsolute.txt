@@ -1,0 +1,12 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/bin/Debug/netcoreapp2.1/17_Operador_De_Resto_For.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/bin/Debug/netcoreapp2.1/17_Operador_De_Resto_For.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/bin/Debug/netcoreapp2.1/17_Operador_De_Resto_For.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/bin/Debug/netcoreapp2.1/17_Operador_De_Resto_For.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/bin/Debug/netcoreapp2.1/17_Operador_De_Resto_For.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/obj/Debug/netcoreapp2.1/17_Operador_De_Resto_For.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/obj/Debug/netcoreapp2.1/17_Operador_De_Resto_For.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/obj/Debug/netcoreapp2.1/17_Operador_De_Resto_For.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/obj/Debug/netcoreapp2.1/17_Operador_De_Resto_For.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/obj/Debug/netcoreapp2.1/17_Operador_De_Resto_For.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/obj/Debug/netcoreapp2.1/17_Operador_De_Resto_For.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/17_Operador_De_Resto_For/obj/Debug/netcoreapp2.1/17_Operador_De_Resto_For.genruntimeconfig.cache

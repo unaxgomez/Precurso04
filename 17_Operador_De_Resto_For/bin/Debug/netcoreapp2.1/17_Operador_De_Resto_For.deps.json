@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "17_Operador_De_Resto_For/1.0.0": {
+        "runtime": {
+          "17_Operador_De_Resto_For.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17_Operador_De_Resto_For/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
