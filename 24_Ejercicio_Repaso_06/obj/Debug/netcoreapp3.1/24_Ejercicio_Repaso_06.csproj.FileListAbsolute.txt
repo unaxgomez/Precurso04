@@ -1,0 +1,13 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/bin/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/bin/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/bin/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/bin/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/bin/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/obj/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/obj/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/obj/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/obj/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/obj/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/obj/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/obj/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.genruntimeconfig.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/24_Ejercicio_Repaso_06/obj/Debug/netcoreapp3.1/24_Ejercicio_Repaso_06.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/bin/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/bin/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/bin/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/bin/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/bin/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/obj/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/obj/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/obj/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/obj/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/obj/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/obj/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/26_Ejercicio_Repaso_08/obj/Debug/netcoreapp3.1/26_Ejercicio_Repaso_08.genruntimeconfig.cache

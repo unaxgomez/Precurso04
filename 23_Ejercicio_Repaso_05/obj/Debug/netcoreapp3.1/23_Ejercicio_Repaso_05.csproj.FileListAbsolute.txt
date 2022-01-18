@@ -1,0 +1,13 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/bin/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/bin/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/bin/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/bin/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/bin/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/obj/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.csproj.AssemblyReference.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/obj/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/obj/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/obj/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/obj/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/obj/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/obj/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/23_Ejercicio_Repaso_05/obj/Debug/netcoreapp3.1/23_Ejercicio_Repaso_05.genruntimeconfig.cache
