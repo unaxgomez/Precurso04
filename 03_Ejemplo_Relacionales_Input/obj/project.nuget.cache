@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oL/kybJ9trcraxyStMnx/5p4clU4uCwQ+/tn6OMIwBvAzbvCS0x3Po8jsLUzLXyDDdQ48Mb6R7fbKYEO+QyNWA==",
+  "success": true,
+  "projectFilePath": "/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/03_Ejemplo_Relacionales_Input/03_Ejemplo_Relacionales_Input.csproj",
+  "expectedPackageFiles": [
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

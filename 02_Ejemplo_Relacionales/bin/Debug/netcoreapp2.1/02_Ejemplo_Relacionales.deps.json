@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "02_Ejemplo_Relacionales/1.0.0": {
+        "runtime": {
+          "02_Ejemplo_Relacionales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02_Ejemplo_Relacionales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

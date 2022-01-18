@@ -1,0 +1,12 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/bin/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/bin/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/bin/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/bin/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/bin/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/obj/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/obj/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/obj/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/obj/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/obj/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/obj/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/04_Flujo_De_Programa/02_Ejemplo_Relacionales/obj/Debug/netcoreapp2.1/02_Ejemplo_Relacionales.genruntimeconfig.cache
